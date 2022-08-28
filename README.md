@@ -1,0 +1,1 @@
+This project is about me learning how to set up a webpage with recipes following The Odin Project lesson.
