@@ -1,0 +1,45 @@
+h1{
+text-align: center;
+text-decoration: underline;
+color: black;
+background-color: red;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.garlic-butter-chicken, .healthier-orange-chicken, .honey-mustard-chicken {
+    white-space: normal;
+    text-align: center;
+    font-size: large;
+}
+
+.garlic-butter-chicken, .healthier-orange-chicken, .honey-mustard-chicken {
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    border: none;
+    display: block;
+    outline: 0;
+}
+
+.garlic-butter-chicken, .healthier-orange-chicken, .honey-mustard-chicken {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.garlic-butter-chicken, .healthier-orange-chicken, .honey-mustard-chicken {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
